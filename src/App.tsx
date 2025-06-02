@@ -1,15 +1,21 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import { Heart } from 'lucide-react';
-import Hero from './components/Hero';
-import Features from './components/Features';
-import Innovation from './components/Innovation';
-import LoginModal from './components/LoginModal';
-import Dashboard from './components/Dashboard/Dashboard';
-import Presentation from './components/Presentation';
-import Partnerships from './components/Partnerships';
-import PrivateRoute from './components/PrivateRoute';
-import { useAuthStore } from './store/authStore';
+import React from "react";
+import {
+  HashRouter as HashRouter,
+  Routes,
+  Route,
+  Navigate,
+} from "react-router-dom";
+// import { BrowserRouter as Routes, Route, Navigate } from "react-router-dom";
+import { Heart } from "lucide-react";
+import Hero from "./components/Hero";
+import Features from "./components/Features";
+import Innovation from "./components/Innovation";
+import LoginModal from "./components/LoginModal";
+import Dashboard from "./components/Dashboard/Dashboard";
+import Presentation from "./components/Presentation";
+import Partnerships from "./components/Partnerships";
+import PrivateRoute from "./components/PrivateRoute";
+import { useAuthStore } from "./store/authStore";
 
 function App() {
   const [showLogin, setShowLogin] = React.useState(false);
@@ -21,14 +27,16 @@ function App() {
   };
 
   return (
-    <Router>
+    <HashRouter>
       <div className="min-h-screen bg-gradient-to-b from-purple-50 to-white">
         <nav className="bg-white shadow-sm">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex justify-between h-16 items-center">
               <div className="flex items-center">
                 <Heart className="h-8 w-8 text-purple-600" />
-                <span className="ml-2 text-xl font-semibold text-gray-900">MomBaby Care</span>
+                <span className="ml-2 text-xl font-semibold text-gray-900">
+                  MomBaby Care
+                </span>
               </div>
               {!isAuthenticated ? (
                 <button
@@ -52,17 +60,20 @@ function App() {
         <Routes>
           <Route path="/presentation" element={<Presentation />} />
           <Route path="/partnerships" element={<Partnerships />} />
-          <Route path="/" element={
-            isAuthenticated ? (
-              <Navigate to="/dashboard" replace />
-            ) : (
-              <>
-                <Hero />
-                <Features />
-                <Innovation />
-              </>
-            )
-          } />
+          <Route
+            path="/"
+            element={
+              isAuthenticated ? (
+                <Navigate to="/dashboard" replace />
+              ) : (
+                <>
+                  <Hero />
+                  <Features />
+                  <Innovation />
+                </>
+              )
+            }
+          />
           <Route
             path="/dashboard/*"
             element={
@@ -75,10 +86,13 @@ function App() {
         </Routes>
 
         {showLogin && (
-          <LoginModal onClose={() => setShowLogin(false)} onLogin={handleLogin} />
+          <LoginModal
+            onClose={() => setShowLogin(false)}
+            onLogin={handleLogin}
+          />
         )}
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 
