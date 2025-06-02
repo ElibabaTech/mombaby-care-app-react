@@ -1,0 +1,412 @@
+{
+  "737628064502": {
+    "productInfo": {
+      "name": "Prenatal Multivitamin",
+      "brand": "Nature's Best",
+      "category": "Supplements",
+      "packageSize": "90 tablets"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "1 tablet",
+      "calories": 0,
+      "macronutrients": {
+        "carbohydrates": {
+          "total": "0g",
+          "fiber": "0g",
+          "sugar": "0g"
+        },
+        "protein": "0g",
+        "fats": {
+          "total": "0g",
+          "saturated": "0g",
+          "trans": "0g"
+        }
+      },
+      "vitamins": {
+        "vitaminA": "4000 IU",
+        "vitaminD": "1000 IU",
+        "vitaminE": "15 mg",
+        "vitaminK": "90 mcg",
+        "vitaminB6": "1.9 mg",
+        "vitaminB12": "2.6 mcg",
+        "vitaminC": "85 mg",
+        "folicAcid": "800 mcg"
+      },
+      "minerals": {
+        "calcium": "200 mg",
+        "iron": "27 mg",
+        "magnesium": "400 mg",
+        "zinc": "11 mg",
+        "iodine": "150 mcg"
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 95,
+      "pregnancyStages": {
+        "firstTrimester": {
+          "safe": true,
+          "notes": "Recommended for early pregnancy development"
+        },
+        "secondTrimester": {
+          "safe": true,
+          "notes": "Supports continued fetal growth"
+        },
+        "thirdTrimester": {
+          "safe": true,
+          "notes": "Important for final development stage"
+        }
+      },
+      "warnings": [],
+      "allergens": ["None"]
+    },
+    "ingredients": {
+      "list": [
+        "Calcium Carbonate",
+        "Ferrous Fumarate",
+        "Magnesium Oxide",
+        "Vitamin D3",
+        "Folic Acid"
+      ],
+      "artificial": false,
+      "organic": true,
+      "processingLevel": "Minimal"
+    },
+    "recommendations": {
+      "dosage": "Take one tablet daily with food",
+      "timing": "Best absorbed in the morning",
+      "interactions": "Avoid taking with caffeine"
+    },
+    "suitability": {
+      "preConception": true,
+      "firstTrimester": true,
+      "secondTrimester": true,
+      "thirdTrimester": true,
+      "lactation": true,
+      "infants": false
+    }
+  },
+  "681131457378": {
+    "productInfo": {
+      "name": "Organic Baby Rice Cereal",
+      "brand": "Happy Baby",
+      "category": "Baby Food",
+      "packageSize": "200g"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "30g",
+      "calories": 110,
+      "macronutrients": {
+        "carbohydrates": {
+          "total": "25g",
+          "fiber": "1g",
+          "sugar": "0g"
+        },
+        "protein": "2g",
+        "fats": {
+          "total": "0.5g",
+          "saturated": "0g",
+          "trans": "0g"
+        }
+      },
+      "vitamins": {
+        "vitaminA": "300 IU",
+        "vitaminD": "40 IU",
+        "vitaminE": "1.5 mg",
+        "vitaminB1": "0.2 mg",
+        "vitaminB2": "0.2 mg",
+        "vitaminB6": "0.2 mg",
+        "vitaminB12": "0.4 mcg"
+      },
+      "minerals": {
+        "calcium": "100 mg",
+        "iron": "4.5 mg",
+        "zinc": "2 mg"
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 98,
+      "pregnancyStages": {
+        "firstTrimester": {
+          "safe": true,
+          "notes": "Safe but not targeted for pregnancy"
+        },
+        "secondTrimester": {
+          "safe": true,
+          "notes": "Safe but not targeted for pregnancy"
+        },
+        "thirdTrimester": {
+          "safe": true,
+          "notes": "Safe but not targeted for pregnancy"
+        }
+      },
+      "warnings": ["Introduce gradually to check for allergies"],
+      "allergens": ["Processed in facility that handles wheat"]
+    },
+    "ingredients": {
+      "list": ["Organic Brown Rice Flour", "Iron", "Vitamin B1", "Vitamin B2", "Vitamin B6", "Vitamin B12"],
+      "artificial": false,
+      "organic": true,
+      "processingLevel": "Moderate"
+    },
+    "recommendations": {
+      "dosage": "Start with 1-2 tablespoons mixed with breast milk or formula",
+      "timing": "Best as first solid food from 6 months",
+      "interactions": "None known"
+    },
+    "suitability": {
+      "preConception": true,
+      "firstTrimester": true,
+      "secondTrimester": true,
+      "thirdTrimester": true,
+      "lactation": true,
+      "infants": {
+        "suitable": true,
+        "minimumAge": "6 months",
+        "notes": "Perfect as first solid food"
+      }
+    }
+  },
+  "619908123456": {
+    "productInfo": {
+      "name": "Maternal Care Supplement",
+      "brand": "Emzor",
+      "category": "Supplements",
+      "packageSize": "30 tablets",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "1 tablet",
+      "calories": 0,
+      "macronutrients": {
+        "carbohydrates": {"total": "0g"},
+        "protein": "0g",
+        "fats": {"total": "0g"}
+      },
+      "vitamins": {
+        "folicAcid": "400mcg",
+        "vitaminD": "400IU",
+        "vitaminB12": "2.6mcg"
+      },
+      "minerals": {
+        "iron": "60mg",
+        "calcium": "200mg"
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 95,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  },
+  "619908123457": {
+    "productInfo": {
+      "name": "Pap for Nursing Mothers",
+      "brand": "Golden Penny",
+      "category": "Maternal Nutrition",
+      "packageSize": "500g",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "100g",
+      "calories": 360,
+      "macronutrients": {
+        "carbohydrates": {"total": "78g"},
+        "protein": "8g",
+        "fats": {"total": "1g"}
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 90,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  },
+  "619908123458": {
+    "productInfo": {
+      "name": "Baby Cereal",
+      "brand": "Nestle Nutrend",
+      "category": "Baby Food",
+      "packageSize": "400g",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "50g",
+      "calories": 200,
+      "macronutrients": {
+        "carbohydrates": {"total": "40g"},
+        "protein": "6g",
+        "fats": {"total": "2g"}
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 95,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  },
+  "619908123459": {
+    "productInfo": {
+      "name": "Custard for Infants",
+      "brand": "Checkers Custard",
+      "category": "Baby Food",
+      "packageSize": "400g",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "50g",
+      "calories": 180,
+      "macronutrients": {
+        "carbohydrates": {"total": "38g"},
+        "protein": "4g",
+        "fats": {"total": "1g"}
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 92,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  },
+  "619908123460": {
+    "productInfo": {
+      "name": "Maternal Milk Powder",
+      "brand": "Peak",
+      "category": "Maternal Nutrition",
+      "packageSize": "900g",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "30g",
+      "calories": 150,
+      "macronutrients": {
+        "carbohydrates": {"total": "12g"},
+        "protein": "8g",
+        "fats": {"total": "8g"}
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 94,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  },
+  "619908123461": {
+    "productInfo": {
+      "name": "Baby Formula",
+      "brand": "SMA Gold",
+      "category": "Infant Nutrition",
+      "packageSize": "400g",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "30g",
+      "calories": 130,
+      "macronutrients": {
+        "carbohydrates": {"total": "14g"},
+        "protein": "7g",
+        "fats": {"total": "6g"}
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 96,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  },
+  "619908123462": {
+    "productInfo": {
+      "name": "Infant Cereal with Milk",
+      "brand": "Cerelac",
+      "category": "Baby Food",
+      "packageSize": "350g",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "50g",
+      "calories": 210,
+      "macronutrients": {
+        "carbohydrates": {"total": "42g"},
+        "protein": "7g",
+        "fats": {"total": "3g"}
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 93,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  },
+  "619908123463": {
+    "productInfo": {
+      "name": "Pregnancy Tea",
+      "brand": "Mama's Garden",
+      "category": "Maternal Beverages",
+      "packageSize": "20 bags",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "1 bag",
+      "calories": 0,
+      "macronutrients": {
+        "carbohydrates": {"total": "0g"},
+        "protein": "0g",
+        "fats": {"total": "0g"}
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 90,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  },
+  "619908123464": {
+    "productInfo": {
+      "name": "Fortified Baby Food",
+      "brand": "NAN",
+      "category": "Baby Food",
+      "packageSize": "400g",
+      "madeIn": "Nigeria"
+    },
+    "nutritionalBreakdown": {
+      "servingSize": "30g",
+      "calories": 120,
+      "macronutrients": {
+        "carbohydrates": {"total": "15g"},
+        "protein": "6g",
+        "fats": {"total": "5g"}
+      }
+    },
+    "safetyAnalysis": {
+      "overallSafetyScore": 95,
+      "pregnancyStages": {
+        "firstTrimester": {"safe": true},
+        "secondTrimester": {"safe": true},
+        "thirdTrimester": {"safe": true}
+      }
+    }
+  }
+}
